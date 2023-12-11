@@ -1,3 +1,4 @@
-class Hello {
+object Hello extends App{
+  println("hello")
 
 }
